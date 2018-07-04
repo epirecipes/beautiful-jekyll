@@ -2,7 +2,7 @@
 title: epirecipes
 subtitle: Developing a cookbook of epidemiological models
 bigimg:
-  - "/img/zooeqn.svg" : ""
+  - "img/black_background_fabric-wallpaper-1280x768.jpg" : ""
 ---
 
 ## Summary of meeting
