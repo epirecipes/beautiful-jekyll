@@ -9,4 +9,6 @@ We would like to thank all our sponsors for supporting this event.
 
 ## The Alan Turing Institute
 
+## R Epidemics Consortium
+
 ## Julia Computing

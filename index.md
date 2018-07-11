@@ -29,3 +29,9 @@ We would like to thank our sponsors for their support; more information can be f
 <br>
 <br>
 <img src="img/cid.png" alt="Cambridge Infectious Diseases" height="96">
+<br>
+<br>
+<img src="img/recon.png" alt="R Epidemics Consortium" height="96">
+<br>
+<br>
+<img src="img/julia-computing.svg" alt="Julia Computing" height="96">
