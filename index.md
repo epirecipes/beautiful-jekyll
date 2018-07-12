@@ -15,7 +15,7 @@ TBD
 
 ## Venue
 
-The meeting will be held at [The Alan Turing Institute](https:/www.turing.ac.uk/), beginning Monday 1st August 2018 with registration at 09:30-10:00, finish on Wednesday 3rd October 2018 at 17.00.
+The meeting will be held at [The Alan Turing Institute](https:/www.turing.ac.uk/), beginning Monday 1st October 2018 with registration at 09:30-10:00, and finish on Wednesday 3rd October 2018 at 17.00.
 
 ## Registration
 
