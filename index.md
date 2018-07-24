@@ -31,6 +31,12 @@ We would like to thank our sponsors for their support; more information can be f
 <a href="https://www.infectiousdisease.cam.ac.uk/"><img src="img/cid.png" alt="Cambridge Infectious Diseases" height="96">
 <br>
 <br>
+<a href="https://www.infectiousdisease.cam.ac.uk/"><img src="img/ccdd.png" alt="Cambridge Infectious Diseases" height="96">
+<br>
+<br>
+<a href="https://www.infectiousdisease.cam.ac.uk/"><img src="img/midas.png" alt="Cambridge Infectious Diseases" height="96">
+<br>
+<br>
 <a href="https://www.repidemicsconsortium.org/"><img src="img/recon.png" alt="R Epidemics Consortium" height="96">
 <br>
 <br>
