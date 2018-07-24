@@ -4,9 +4,19 @@ title: About
 subtitle: Epirecipes Organisation
 ---
 
+## Logistics
+
 - University of Cambridge
     - Simon Frost
     - Allyson Walsh
 
 - The Alan Turing Institute
-    - Catherine Field
+    - Jade Thompson
+
+## Facilitators
+
+- Thibaut Jombart @thibautjombart
+- Rich FitzJohn @richfitz
+- Chris Rackauckas @ChrisRackauckas
+- James Lester @macnwealk
+- Gerry Tonkin-Hill @gtonkinhill
