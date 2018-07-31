@@ -5,21 +5,25 @@ bigimg:
   - "img/black_background_fabric-wallpaper-1280x768.jpg" : ""
 ---
 
-## Summary of meeting
+## Introduction
 
-This is a three day meeting to bring together researchers to implement as many different epidemiological models as possible.
+[Take me to the cookbook!](http://epirecip.es/epicookbook/)
 
-## Proposed Agenda
+This is an initiative to implement as many different epidemiological models as possible in a variety of computer languages.
 
-TBD
+Why? Reasons include:
+- Replication and reproducibility are important
+- Introductory textbooks give few applied examples
+- There are many tips and tricks involved in epidemiological modeling in practice
+- It lowers the barrier for new researchers to enter the field
 
-## Venue
+More on the rationale can be found [here](http://epirecip.es/rationale/).
 
-The meeting will be held at [The Alan Turing Institute](https:/www.turing.ac.uk/), beginning Monday 1st October 2018 with registration at 09:30-10:00, and finish on Wednesday 3rd October 2018 at 17.00.
+## The Epirecipes workshop: The Alan Turing Institute, October 1-3 2018
 
-## Registration
+This is a three day meeting to bring together researchers to implement as many different epidemiological models as possible. The meeting will be held at [The Alan Turing Institute](https:/www.turing.ac.uk/), beginning Monday 1st October 2018 with registration at 09:30-10:00, and finish on Wednesday 3rd October 2018 at 17.00.
 
-Registration will be open soon!
+Further details on registration can be found [here](http://epirecip.es/registration/).
 
 ## Sponsors
 
