@@ -25,6 +25,10 @@ The R Epidemics Consortium (RECON) assembles a group of international experts in
 
 Julia Computing was founded in July 2015 by 6 co-founders - the 4 creators of the Julia programming language (Dr.Viral Shah, Prof.Alan Edelman, Dr.Jeff Bezanson, Stefan Karpinski) along with Deepak Vinchhi and Keno Fischer. Julia Computing's mission is to develop products that make Julia easy to use, easy to deploy and easy to scale.
 
+## Microsoft Research
+
+Microsoft Research is the research subsidiary of Microsoft. It was formed in 1991, with the intent to advance state-of-the-art computing and solve difficult world problems through technological innovation in collaboration with academic, government, and industry researchers.
+
 ## Funders
 
 - ESRC

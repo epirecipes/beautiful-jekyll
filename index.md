@@ -41,3 +41,6 @@ We would like to thank our sponsors for their support; more information can be f
 <br>
 <br>
 <a href="https://juliacomputing.com/"><img src="img/julia-computing.svg" alt="Julia Computing" height="96">
+<br>
+<br>
+<a href="https://www.microsoft.com/en-us/research/"><img src="img/Microsoft.png" alt="Microsoft" height="96">
