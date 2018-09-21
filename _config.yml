@@ -29,17 +29,22 @@ navbar-links:
   Organisation: "about"
   Rationale: "rationale"
   Sponsors: "sponsors"
+  Transparency: "gdpr"
   Resources:
     - The Alan Turing Institute: "http://www.turing.ac.uk"
     - University of Cambridge: "http://www.cam.ac.uk/"
+    - HSPH Center for Communicable Disease Dynamics: "http://ccdd.hsph.harvard.edu/"
+    - Models of Infectious Disease Agent Study: "https://www.nigms.nih.gov/Research/specificareas/MIDAS/"
+    - The R Epidemics Consortium: "http://www.repidemicsconsortium.org"
+    - Julia Computing: "http://juliacomputing.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/epicookbook.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/epicookbook.jpg"
 
 # --- Background colour/image options --- #
 
