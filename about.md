@@ -19,5 +19,5 @@ subtitle: Epirecipes Organisation
 - Zhian Kamvar @zkamvar
 - Rich FitzJohn @richfitz
 - Chris Rackauckas @ChrisRackauckas
-- James Lester @macnwealk
+- James Lester @Mancwealm
 - Gerry Tonkin-Hill @gtonkinhill
