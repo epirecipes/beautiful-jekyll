@@ -16,6 +16,7 @@ subtitle: Epirecipes Organisation
 ## Facilitators
 
 - Thibaut Jombart @thibautjombart
+- Zhian Kamvar @zkamvar
 - Rich FitzJohn @richfitz
 - Chris Rackauckas @ChrisRackauckas
 - James Lester @macnwealk
